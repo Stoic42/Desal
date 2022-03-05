@@ -1,0 +1,6 @@
+## Hello, Github
+I have created this account 8 or so years ago, yet I haven't made any commitment to this community until a few days ago (and even that was creating a repository merely from another user's template), like very recently. 
+I haven't touched this account ever since 2014 & 2015 till the very last winter. 
+IN these years, I have gone through a lot of life events, like several transfers, going to another city far away from my hometown, falling in love, going abroad, another few transfers, and going home again. Computer science is no longer as cool-soudning as the first times I thought about working in this field. 
+I really started to get my head into Github again because I wanted to build a blog. This idea originated from the time when I saw so many members on Mastodon had created their own blogs and were encouraging more people to join them. 
+After some researches, I admitted that it would be quite meaningful for me to build a blog at this time, and a good timing for me to pick up programming again. I love to write a lot. These researched not only propelled me to start testing the different ways of builidng personal blog but also drew me into the idea of buying VPS services and do more cool stuff. 
