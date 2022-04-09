@@ -5,7 +5,7 @@ description: "Wandering..."
 # Email / Social media user names used by the minima theme:
 # All of these are optional and can be removed or commented out
 email: "desalinator101@protonmail.com"
-mastodon_username: "desal@monado.ren"
+fediverse_username: "desal@monado.ren"
 github_username: "stoic42"
 #linkedin_username: "linkedinuser"
 #facebook_username: username
